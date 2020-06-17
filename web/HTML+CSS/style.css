@@ -1,0 +1,237 @@
+*{margin: 0; padding: 0}
+#MuaDell{
+	width: 1366px;
+	height: 500px;
+}
+#weblap{
+	width: 1366px;
+	height: 500px;
+	margin: 0 auto;
+	background: ffffff;
+}
+#header{
+	width: 1366px;
+	height: 86px;
+	background-color:#81BC06;	
+}
+#logo{
+	float: left;
+	margin: auto auto auto 127px;
+	position:relative;
+}
+#timkiem{
+	float: right;
+	margin: 20px 350px auto auto;
+}
+#nav{
+	float: left;
+	position:relative;
+}
+#nav{
+	height:72px;
+	width: 1366px; 
+	float: left;
+	background-color: #2f2f2f;
+	position: relative;
+}
+
+#nav ul {
+	float: left;
+	margin: auto auto auto 127px;
+	position: relative;
+}
+#nav ul li{
+	float: left;
+	list-style-type: none;
+	position: relative;
+}
+
+#menu ul li ul{
+	display: none;
+	position: absolute;
+	
+	color: #FFFFFF;
+}
+#menu ul li:hover ul{ display: block;}
+#slide{
+	height: 336px;
+	width: 1118px;
+	float: left;
+	margin: auto auto auto 128px;
+	background-color: #FFFFFF;
+}
+#top{
+	float: left;
+	margin: auto auto auto 128px;
+	background-color: #FFFFFF;
+}
+#sanpham{
+	float: left;
+	margin: auto auto auto 128px;
+}
+#produc{
+	float: left;
+	margin: auto auto auto 128px;
+}
+#hang{
+	float: left;
+	margin: auto auto auto 128px;
+}
+#software{
+	float: left;
+	margin: auto auto auto 128px;
+}
+#linkien{
+	float: left;
+	margin: auto auto auto 128px;
+}
+#dangki{
+	float: left;
+	margin: auto auto auto 65px;
+}
+#footer{
+	float: left;
+	width: 1366px;
+	height: 285px;
+	background-color: #414045;
+}
+#Chinhsach{
+	float: left;
+	margin: 25px auto auto 128px;
+	font-size: 18px;
+}
+#Chinhsach ul a{
+	text-decoration: none;
+	color: #c5b9b9;
+}
+#Chinhsach ul li{
+	list-style-type: none;
+	margin: 10px auto auto auto;
+}
+#timhieu{
+	float: left;
+	margin: 25px auto auto 158px;
+	font-size: 18px;
+}
+#timhieu ul a{
+	text-decoration: none;
+	color:  #c5b9b9;
+
+}
+#timhieu ul li{
+	list-style-type: none;
+	margin: 10px auto auto auto;
+	hover
+}
+#lienhe{
+	float: left;
+	margin: 25px auto auto 178px;
+	font-size: 18px;
+}
+#lienhe ul a{
+	text-decoration: none;
+	color: #c5b9b9; 
+}
+#lienhe ul li{
+	list-style-type: none;
+	margin: 10px auto auto auto;
+}
+#diachi{
+	float: left;
+}
+#diachi ul p{
+	margin: 10px auto auto 128px;
+}
+#dellxps{
+	float: left;
+	margin: auto auto auto 128px;
+}
+#select h3{
+	margin: auto auto auto 30px;
+	font-family: tahoma;
+}
+#select form strong{
+	font-family: tahoma;
+	font-size: 28px;
+	color: red;
+	font-weight: bold;
+	margin: auto auto auto 20px;
+}
+#select form{
+	height: 360px;
+}
+#select form input{
+	margin: auto auto auto 20px;
+}
+#select form img{
+	margin:  auto auto auto 20px;
+}
+#select1{
+	height: 50px;
+	background-color: #D4D4D4;
+	margin:  auto 128px auto 128px;
+	text-align: justify;
+}
+#select1 ul li {
+	float: left;
+	list-style-type: none;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin: 13px auto auto 100px;
+	text-align: justify;
+}
+.select2{
+	margin-top: 29px;
+}
+.select2 p1{
+	float: left;
+	margin: auto auto auto 128px;
+	font-family: "FShop Myriad" , sans-serif;
+	font-size: 32px;
+	line-height: 37px;
+	font-weight: normal;
+}
+.select2 p2{
+	float: left;
+	margin: 20px auto auto 128px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 18px;
+	width: 692px;
+	height: 100px;
+}
+.select2 img{
+	height: 200px;
+	margin: -10px auto auto 30px;
+}
+.select3{
+	float: left;
+	font-family: "FShop Myriad" , sans-serif ;
+	font-size: 32px;
+	margin: auto auto auto 128px;
+	width: 692px;
+}
+#thongso img{
+	margin: 40px auto auto 128px;
+	text-align: left;
+}
+#hinhanh img{
+	margin: 30px auto auto 128px;
+}
+.cmt p1{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 35px;
+	line-height: 150%;
+}
+.cmt td{
+	float: left;
+}
+.cmt {
+	margin: auto auto auto 128px;
+}
+#muaHang {
+	margin: auto auto auto 128px;
+}
+#gioHang {
+	width: 1366px;
+	float: left;
+	margin: auto auto auto 128px;
+}
